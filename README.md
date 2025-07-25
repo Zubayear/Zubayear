@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zubayear</h1>
 <h3 align="center">Designing tomorrow’s systems, one resilient service at a time.</h3>
 
-- 🔭 I’m currently working on [jedi](github.com/Zubayear/jedi)
+- 🔭 I’m currently working on [jedi](/jedi)
 
 - 🌱 I’m currently learning **Zig**
 
