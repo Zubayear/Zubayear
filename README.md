@@ -23,22 +23,13 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<div align="left">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Zubayear&show_icons=true&theme=dracula&locale=en" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Zubayear&locale=en&mode=daily&hide_border=false&border_radius=5&order=3&theme=dracula" height="150" alt="GitHub Streak" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE5MWZ3anA5dGV4aHBnZW0ya2JhcmV1Z2N0dWV2ZGJuaXVlcm1sNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4w0AMZJa2EtG/giphy.gif" height="150" />
-  
-</div>
-
----
-
-### 📘 Top Languages
+### 📊 GitHub Activity
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zubayear&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Zubayear&locale=en&mode=daily&hide_border=false&border_radius=5&order=3&theme=dracula" height="150" alt="GitHub Streak" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE5MWZ3anA5dGV4aHBnZW0ya2JhcmV1Z2N0dWV2ZGJuaXVlcm1sNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4w0AMZJa2EtG/giphy.gif" height="150" />
+  
 </div>
 
 ---
