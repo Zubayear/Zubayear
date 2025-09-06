@@ -5,7 +5,7 @@
 
 ### 🐼 About Me
 
-- 🔭 I’m currently working on [sonic](https://github.com/Zubayear/sonic)
+- 🔭 I’m currently working on [ryushin](https://github.com/Zubayear/ryushin)
 - 🌱 I’m currently learning ***Zig***
 - 👯 I’m looking to collaborate on [raven](https://github.com/Zubayear/raven)
 - 👨‍💻 All of my projects are available at [github.com/Zubayear](https://github.com/Zubayear)
