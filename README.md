@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning ***Zig***
 - 👯 I’m looking to collaborate on [raven](https://github.com/Zubayear/raven)
 - 👨‍💻 All of my projects are available at [github.com/Zubayear](https://github.com/Zubayear)
-- 💬 Ask me about ***Distributed Systems, Go, Kotlin***
+- 💬 Ask me about ***Distributed Systems, C, Zig***
 - ⚡ Fun fact: ***天上天下唯我独尊***
 
 ---
@@ -17,7 +17,7 @@
 ### 🧠 Languages & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,go,kotlin,zig,elixir,py,kafka,redis,postgresql,elasticsearch,docker,bash,linux,neovim" height="50" />
+  <img src="https://skillicons.dev/icons?i=c,java,go,kotlin,zig,elixir,py,kafka,redis,postgresql,elasticsearch,docker,bash,neovim" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original-wordmark.svg" height="50" alt="erlang logo" />
 </div>
 
