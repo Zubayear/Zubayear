@@ -35,7 +35,7 @@
   </span>
   &nbsp;&nbsp;&nbsp;
   <span>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE5MWZ3anA5dGV4aHBnZW0ya2JhcmV1Z2N0dWV2ZGJuaXVlcm1sNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4w0AMZJa2EtG/giphy.gif" height="150" alt="gatts" />
+    <a href="https://ibb.co.com/PsWc9hc4"><img src="https://i.ibb.co.com/V0CgQSgD/IMG-2250.png" alt="IMG-2250" border="0"></a>
   </span>
 </div>
 
