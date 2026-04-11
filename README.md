@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning ***Zig***
 - 👯 I’m looking to collaborate on [raven](https://github.com/Zubayear/raven)
 - 👨‍💻 All of my projects are available at [github.com/Zubayear](https://github.com/Zubayear)
-- 💬 Ask me about ***Distributed Systems, C, Zig***
+- 💬 Ask me about ***Distributed Systems, C, Zig, Go, Kotlin/Java***
 - ⚡ Fun fact: ***天上天下唯我独尊***
 
 ---
