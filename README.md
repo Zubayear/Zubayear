@@ -16,7 +16,6 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,java,go,kotlin,zig,elixir,py,kafka,redis,postgresql,elasticsearch,docker,bash,neovim" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original-wordmark.svg" height="50" alt="erlang logo" />
 </div>
 
 ---
